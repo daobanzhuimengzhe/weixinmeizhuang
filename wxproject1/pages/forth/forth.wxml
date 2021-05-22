@@ -1,0 +1,4 @@
+<!--pages/forth/forth.wxml-->
+<text>pages/forth/forth.wxml</text>
+
+<view class="savepicture1"><button class= "savepicture2" bindtap="myup" >上传数据</button></view>

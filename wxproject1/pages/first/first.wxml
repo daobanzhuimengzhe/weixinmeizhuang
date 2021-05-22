@@ -1,0 +1,23 @@
+<!--pages/first/first.wxml-->
+
+<view class="content">
+	<!--pics文件夹下的background.jpg文件-->
+	<image class='background' src="data:image/png;base64,{{background0}}" mode="aspectFill" style="position: fixed; left: 4rpx; top: -6rpx"></image>
+	<!--页面其它部分-->
+</view>
+
+<view class="styleone">
+  请上传素颜照
+</view>
+<view class="stylethree">
+<image class="imgclass1" src="{{tempFilePaths }}" mode="widthFix"  /></view>
+<!--  <button style="margin:30rpx;" bindtap="chooseimage1"><image src="/image/littleimg1.png"></image></button>  -->
+<view class="styletwo">
+<button class="buttonclass1" bindtap="chooseimage2" size="mini" >拍照上传</button>
+<button class="buttonclass1" bindtap="chooseimage1"size="mini" >相册上传</button>
+
+<button class="buttonclass1" bindtap="passtempFilePaths" size="mini" >
+      下一步
+</button>
+</view>
+

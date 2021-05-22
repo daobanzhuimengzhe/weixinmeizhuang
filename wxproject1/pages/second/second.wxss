@@ -1,0 +1,49 @@
+/* pages/second/second.wxss */
+.background {
+  width: 100%;
+  height: 100%;
+  position:fixed; 
+  background-size:100% 100%;
+  z-index: -1;
+  opacity:0.4;
+}
+
+.styleone{
+  color: #2b02028c;
+  background-color: rgba(252, 244, 248, 0.281);
+  width: 100%;
+  font-size: 100%;
+  text-align: center;
+}
+
+.imgclass1{
+  width: 80%;
+  
+  
+
+}
+
+.buttonclass1{
+ display: inline-block;
+  background-color: rgba(36, 187, 81, 0.336);
+  margin-inline: 10px;
+  border: 1px solid rgb(66, 53, 53);
+  
+  
+}
+.stylethree{
+  position: fixed;  
+text-align: center;
+align-items: center;
+width: 100%;
+height: 70%;
+border: 1px solid black;
+
+}
+
+.styletwo{
+  position: fixed;  
+text-align: center;
+bottom: 8%;
+width: 100%;
+}

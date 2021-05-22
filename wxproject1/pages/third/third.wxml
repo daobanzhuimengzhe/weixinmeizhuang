@@ -1,0 +1,5 @@
+
+  <view class="stylethree">
+<image class="imgclass1" src="data:image/png;base64,{{tempFilePaths64}}" mode="widthFix"  /></view>
+<view class="savepicture1"><button class= "savepicture2" bindtap="save" >保存至相册</button></view>
+

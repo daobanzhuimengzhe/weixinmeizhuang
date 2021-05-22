@@ -1,0 +1,41 @@
+/* pages/third/third.wxss */
+.imgclass{
+  width: 100%;
+  height: 100%;
+  position:fixed; 
+}
+.savepicture2{
+  background-color: rgba(36, 187, 81, 0.336);
+  border: 1px solid rgb(66, 53, 53);
+  
+}
+.savepicture1{
+  position: fixed;  
+  text-align: center;
+  bottom: 8%;
+  width: 100%;
+}
+.imgclass1{
+  width: 80%;
+  
+  
+
+}
+.stylethree{
+  position: fixed;  
+text-align: center;
+align-items: center;
+width: 100%;
+height: 70%;
+border: 1px solid black;
+
+}
+.stylethree{
+  position: fixed;  
+text-align: center;
+align-items: center;
+width: 100%;
+height: 70%;
+border: 1px solid black;
+
+}
